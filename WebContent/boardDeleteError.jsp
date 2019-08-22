@@ -3,7 +3,7 @@
 
 <html> 
 	<head>
-		<title>게시판 글 삭제 에러</title>
+		<title>게시판 글 삭제 에러리</title>
 	</head>
 	<body>
 		<h3>비밀번호가 맞지 않거나, 답글이 존재할 경우 삭제할 수 없습니다.</h3>
